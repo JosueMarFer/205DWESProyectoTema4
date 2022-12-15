@@ -1,0 +1,3 @@
+USE dbs9174047;
+
+DROP TABLE IF EXISTS T02_Departamento;
